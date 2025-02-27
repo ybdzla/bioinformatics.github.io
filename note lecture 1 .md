@@ -1,5 +1,8 @@
 # Introduction - Part 1
-## Step 1 of Bioinformatics -- Question
+## Step 0 of Bioinformatics -- Question
 Science, technology, and philosophy are complementary to each other.
 ## Step 1 of Bioinformatics -- Information
-
+1. Two major types of information: images and sequences
+2. Type of NGS: DNA-seq, RNA-seq, Epigenetics, Interaction
+## Step 2 of Bioinformatics -- Analysis
+1. NGS Data Analysis: Sequencing Method + Bioinformatics Tool
