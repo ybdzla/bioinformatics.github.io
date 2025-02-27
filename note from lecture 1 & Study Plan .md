@@ -30,4 +30,11 @@ Science, technology, and philosophy are complementary to each other.
 
 
 # Study Plan
-
+## Timeline
+* week 1-4: Linux
+* week 5-16: R
+* week 11-16: python
+## Action
+* Dedicate at least 10 hours each week to reinforce the knowledge points covered in class and engage in practical exercises.
+* Learn to solve my own programming problems using search engines like Google.
+* Combine the skills learned in class with research projects.
