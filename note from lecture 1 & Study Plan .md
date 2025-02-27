@@ -27,3 +27,7 @@ Science, technology, and philosophy are complementary to each other.
 2. Can be deterministic or probabilistic: Focuses on how to solve the problem, not just uncertainty.
 3. Focuses on computation: Provides a method for achieving a desired result, like sorting or searching.
 4. Example: Sorting algorithms (QuickSort, MergeSort), machine learning algorithms (Neural Networks).
+
+
+# Study Plan
+
